@@ -1,2 +1,19 @@
-# online-retail-analysis
-EDA and business insights for UK online retailer dataset
+# Online Retail Analysis
+
+## Описание
+EDA датасета UK онлайн-ретейлера (2010–2011). 
+541 909 транзакций, 8 колонок.
+
+## Задача
+Объяснить динамику продаж и найти ключевые инсайты для директора по продажам.
+
+## Стек
+Python, pandas, matplotlib
+
+## Ключевые инсайты
+- Уровень возвратов 8.9% — вдвое ниже среднего по рынку
+- Пик продаж в ноябре, сезонный рост во второй половине года
+- 93% выручки приходит из UK
+
+## Данные
+[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
