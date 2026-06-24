@@ -1,19 +1,18 @@
-# Online Retail Analysis
+# Data Analytics Portfolio
 
-## Описание
-EDA датасета UK онлайн-ретейлера (2010–2011). 
-541 909 транзакций, 8 колонок.
+## Обо мне
+Junior Data Analyst. Python, SQL, pandas, seaborn, plotly, sklearn.
 
-## Задача
-Объяснить динамику продаж и найти ключевые инсайты для директора по продажам.
+## Проекты
 
-## Стек
-Python, pandas, matplotlib
+### 1. Online Retail EDA
+Анализ 540K транзакций UK ретейлера. Очистка данных, выручка по месяцам, топ товары.
+[Ссылка на ноутбук]
 
-## Ключевые инсайты
-- Уровень возвратов 8.9% — вдвое ниже среднего по рынку
-- Пик продаж в ноябре, сезонный рост во второй половине года
-- 93% выручки приходит из UK
+### 2. A/B Testing — Marketing
+Chi-square тест эффективности рекламы на 588K пользователях.
+[Ссылка на ноутбук]
 
-## Данные
-[UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+### 3. Football Market Value Analysis
+Анализ рыночных стоимостей 31K футболистов. seaborn, plotly, линейная регрессия.
+[Ссылка на ноутбук]
